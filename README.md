@@ -1,13 +1,13 @@
-# 📚 Sistem Informasi Perpustakaan Digital
+# Sistem Informasi Perpustakaan Digital
 
 Aplikasi berbasis web untuk manajemen perpustakaan digital, mencakup pengelolaan katalog buku oleh Admin dan sistem peminjaman buku (Shopping Cart & Checkout) untuk Mahasiswa.
 
 Project ini dibuat untuk memenuhi Tugas Akhir mata kuliah [Masukkan Nama Mata Kuliah, misal: Pemrograman Web Lanjut].
 
 Tim Pengembang (Kelompok Kupu-Kupu)
-1. Reza Septian - 202343500669
-2. Muhamad Kahfi - 202343500555
-3. Dafito Mamase - 202343500661
+1. **Reza Septian** - 202343500669
+2. **Muhamad Kahfi** - 202343500555
+3. **Dafito Mamase** - 202343500661
 
 ## Fitur Utama
 Sistem ini menggunakan pembagian hak akses (*Role-Based Access Control*) menjadi dua, yaitu:
